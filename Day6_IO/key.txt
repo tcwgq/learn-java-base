@@ -1,5 +1,0 @@
-#Fri Oct 16 21:20:37 CST 2015
-zhangSan=30
-zhaoLiu=60
-liSi=100
-wangWu=50
