@@ -1,0 +1,17 @@
+package com.tcwgq.mediator;
+
+public abstract class User {
+	private Mediator mediator;
+
+	public User(Mediator mediator) {
+		super();
+		this.mediator = mediator;
+	}
+
+	public Mediator getMediator() {
+		return mediator;
+	}
+
+	public abstract void work();
+
+}
